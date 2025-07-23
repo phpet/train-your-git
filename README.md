@@ -4,7 +4,7 @@ Welcome to Berk — and to Git!
 
 This project will teach Git basics through a collaborative, story-driven project where each student contributes a chapter from the perspective of a character in *How to Train Your Dragon*.
 
-This is a Markdown file. To see a render of this file, right click on the tab with the file name and click *Open Preview* (Ctrl+Shift+V).
+This is a Markdown file. To see a render of this file in your IDE, right click on the tab with the file name and click *Open Preview* (Ctrl+Shift+V).
 
 ## Goals
 - Learn how to use Git: branching, committing, pushing, resolving conflicts
@@ -27,7 +27,7 @@ Each student will write chapters from their character’s perspective and follow
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-ORG/train-your-git.git
+git clone https://github.com/phpet/train-your-git.git
 cd train-your-git
 ```
 
