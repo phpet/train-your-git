@@ -2,7 +2,7 @@
 
 Being a Viking isn’t exactly **my** thing. While everyone else is out slaying dragons, I’m in the forge, tripping over my own feet and building things no one asked for.
 
-Last night, everything changed.
+mihai
 
 I hit a **Night Fury**. No one believed me, of course — they *never* do.  
 So I went looking for it... and I found it. Crashed. Hurt. Helpless.
