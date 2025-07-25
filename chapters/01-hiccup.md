@@ -1,5 +1,5 @@
 # Chapter 1: Hiccup's Tale
-**test conflict**
+**test conflict number 2** 
 Being a Viking? Pfft, that's for peasants.
 While everyone else is pedaling around on their pathetic bicycles, complaining about the hot weather like a bunch of weaklings,
 I'm cruising in my BMW M6 - the beast I earned during my "work" abroad in London.
